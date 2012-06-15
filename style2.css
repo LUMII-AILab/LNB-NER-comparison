@@ -1,0 +1,217 @@
+div#c
+{
+	overflow:auto;
+	width:100%;
+}
+
+div#cont1, div#cont2  {
+     border:3px groove #C0C0C0;
+     margin: 5px 0pt 0pt;
+     padding: 5px;
+	 cursor:default;
+	 line-height:200%;
+	 width:45%;
+	 margin:100px 1%;
+	 float:left;
+}
+
+div#teksts span {
+     cursor: pointer;
+}
+
+body
+{
+	padding-right:20px;
+}
+
+
+.blank {
+     background: none;
+}
+
+span.ignore {
+     color:#CCCCCC;
+}
+
+div#teksts span.ignore {
+	 display:none;
+}
+
+body div div span.diff .cat10, body div div span.diff .cat11, body div div span.diff .cat12, body div div span.diff .cat13, body div div span.diff .cat14, body div div span.diff .cat15, body div div span.diff .cat16, body div div span.diff .cat17, body div div span.diff .cat18, body div div span.diff .cat19
+{
+     background-color: #D6C9C9;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat20, .body div div span.diff .cat21, body div div span.diff .cat22, body div div span.diff .cat23, body div div span.diff .cat24, body div div span.diff .cat25, body div div span.diff .cat26, body div div span.diff .cat27, body div div span.diff .cat28, body div div span.diff .cat29
+{
+     background-color: #D56969;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat30, body div div span.diff .cat31, body div div span.diff .cat32, body div div span.diff .cat33, body div div span.diff .cat34, body div div span.diff .cat35, body div div span.diff .cat36, body div div span.diff .cat37, body div div span.diff .cat38, body div div span.diff .cat39
+{
+     background-color: #E1DF64;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat40, body div div span.diff .cat41, body div div span.diff .cat42, body div div span.diff .cat43, body div div span.diff .cat44, body div div span.diff .cat45, body div div span.diff .cat46, body div div span.diff .cat47, body div div span.diff .cat48, body div div span.diff .cat49
+{
+     background-color: #72A644;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat50, body div div span.diff .cat51, body div div span.diff .cat52, body div div span.diff .cat53, body div div span.diff .cat54, body div div span.diff .cat55, body div div span.diff .cat56, body div div span.diff .cat57, body div div span.diff .cat58, body div div span.diff .cat59
+{
+     background-color: #40A490;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat60, body div div span.diff .cat61, body div div span.diff .cat62, body div div span.diff .cat63, body div div span.diff .cat64, body div div span.diff .cat65, body div div span.diff .cat66, body div div span.diff .cat67, body div div span.diff .cat68, body div div span.diff .cat69
+ {
+     background-color: #0ADDF0;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat70, body div div span.diff .cat71, body div div span.diff .cat72, body div div span.diff .cat73, body div div span.diff .cat74, body div div span.diff .cat75, body div div span.diff .cat76, body div div span.diff .cat77, body div div span.diff .cat78, body div div span.diff .cat79
+{
+     background-color: #1468C8;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat80, body div div span.diff .cat81, body div div span.diff .cat82, body div div span.diff .cat83, body div div span.diff .cat84, body div div span.diff .cat85, body div div span.diff .cat86, body div div span.diff .cat87, body div div span.diff .cat88, body div div span.diff .cat89
+{
+     background-color: #FAF60F;
+	 padding:0 3px;
+}
+
+body div div span.diff .cat90, body div div span.diff .cat91, body div div span.diff .cat92, body div div span.diff .cat93, body div div span.diff .cat94, body div div span.diff .cat95, body div div span.diff .cat96, body div div span.diff .cat97, body div div span.diff .cat98, body div div span.diff .cat99
+{
+     background-color: #F586EC;
+	 padding:0 3px;
+}
+
+body div div span.diff span .cat10, body div div span.diff span .cat11, body div div span.diff span .cat12, body div div span.diff span .cat13, body div div span.diff span .cat14, body div div span.diff span .cat15, body div div span.diff span .cat16, body div div span.diff span .cat17, body div div span.diff span .cat18, body div div span.diff span .cat19
+{
+     border: 3px solid #D6C9C9;
+	 background: none;
+}
+
+body div div span.diff span .cat20, body div div span.diff span .cat21, body div div span.diff span .cat22, body div div span.diff span .cat23, body div div span.diff span .cat24, body div div span.diff span .cat25, body div div span.diff span .cat26, body div div span.diff span .cat27, body div div span.diff span .cat28, body div div span.diff span .cat29
+{
+     border: 3px solid #D56969;
+	 background: none;
+}
+
+body div div span.diff span .cat30, body div div span.diff span .cat31, body div div span.diff span .cat32, body div div span.diff span .cat33, body div div span.diff span .cat34, body div div span.diff span .cat35, body div div span.diff span .cat36, body div div span.diff span .cat37, body div div span.diff span .cat38, body div div span.diff span .cat39
+{
+     border: 3px solid #E1DF64;
+	 background: none;
+}
+
+body div div span.diff span .cat40, body div div span.diff span .cat41, body div div span.diff span .cat42, body div div span.diff span .cat43, body div div span.diff span .cat44, body div div span.diff span .cat45, body div div span.diff span .cat46, body div div span.diff span .cat47, body div div span.diff span .cat48, body div div span.diff span .cat49
+{
+     border: 3px solid #72A644;
+	 background: none;
+}
+
+body div div span.diff span .cat50, body div div span.diff span .cat51, body div div span.diff span .cat52, body div div span.diff span .cat53, body div div span.diff span .cat54, body div div span.diff span .cat55, body div div span.diff span .cat56, body div div span.diff span .cat57, body div div span.diff span .cat58, body div div span.diff span .cat59
+{
+     border: 3px solid #40A490;
+	 background: none;
+}
+
+body div div span.diff span .cat60, body div div span.diff span .cat61, body div div span.diff span .cat62, body div div span.diff span .cat63, body div div span.diff span .cat64, body div div span.diff span .cat65, body div div span.diff span .cat66, body div div span.diff span .cat67, body div div span.diff span .cat68, body div div span.diff span .cat69
+ {
+     border: 3px solid #0ADDF0;
+	 background: none;
+}
+
+body div div span.diff span .cat70, body div div span.diff span .cat71, body div div span.diff span .cat72, body div div span.diff span .cat73, body div div span.diff span .cat74, body div div span.diff span .cat75, body div div span.diff span .cat76, body div div span.diff span .cat77, body div div span.diff span .cat78, body div div span.diff span .cat79
+{
+     border: 3px solid #1468C8;
+	 background: none;
+}
+
+body div div span.diff span .cat80, body div div span.diff span .cat81, body div div span.diff span .cat82, body div div span.diff span .cat83, body div div span.diff span .cat84, body div div span.diff span .cat85, body div div span.diff span .cat86, body div div span.diff span .cat87, body div div span.diff span .cat88, body div div span.diff span .cat89
+{
+     border: 3px solid #FAF60F;
+	 background: none;
+}
+
+body div div span.diff span .cat90, body div div span.diff span .cat91, body div div span.diff span .cat92, body div div span.diff span .cat93, body div div span.diff span .cat94, body div div span.diff span .cat95, body div div span.diff span .cat96, body div div span.diff span .cat97, body div div span.diff span .cat98, body div div span.diff span .cat99
+{
+     border: 3px solid #F586EC;
+	 background: none;
+}
+
+body div div span.diff .cat11 body div div span.diff .cat11, body div div span.diff .cat12 body div div span.diff .cat12, body div div span.diff .cat13 body div div span.diff .cat13, body div div span.diff .cat14 body div div span.diff .cat14, body div div span.diff .cat15 body div div span.diff .cat15, body div div span.diff .cat16 body div div span.diff .cat16, body div div span.diff .cat17 body div div span.diff .cat17, body div div span.diff .cat18 body div div span.diff .cat18, body div div span.diff .cat19 body div div span.diff .cat19, body div div span.diff .cat21 body div div span.diff .cat21, body div div span.diff .cat22 body div div span.diff .cat22, body div div span.diff .cat23 body div div span.diff .cat23, body div div span.diff .cat24 body div div span.diff .cat24, body div div span.diff .cat25 body div div span.diff .cat25, body div div span.diff .cat26 body div div span.diff .cat26, body div div span.diff .cat27 body div div span.diff .cat27, body div div span.diff .cat28 body div div span.diff .cat28, body div div span.diff .cat29 body div div span.diff .cat29, body div div span.diff .cat31 body div div span.diff .cat31, body div div span.diff .cat32 body div div span.diff .cat32, body div div span.diff .cat33 body div div span.diff .cat33, body div div span.diff .cat34 body div div span.diff .cat34, body div div span.diff .cat35 body div div span.diff .cat35, body div div span.diff .cat36 body div div span.diff .cat36, body div div span.diff .cat37 body div div span.diff .cat37, body div div span.diff .cat38 body div div span.diff .cat38, body div div span.diff .cat39 body div div span.diff .cat39, body div div span.diff .cat41 body div div span.diff .cat41, body div div span.diff .cat42 body div div span.diff .cat42, body div div span.diff .cat43 body div div span.diff .cat43, body div div span.diff .cat44 body div div span.diff .cat44, body div div span.diff .cat45 body div div span.diff .cat45, body div div span.diff .cat46 body div div span.diff .cat46, body div div span.diff .cat47 body div div span.diff .cat47, body div div span.diff .cat48 body div div span.diff .cat48, body div div span.diff .cat49 body div div span.diff .cat49, body div div span.diff .cat51 body div div span.diff .cat51, body div div span.diff .cat52 body div div span.diff .cat52, body div div span.diff .cat53 body div div span.diff .cat53, body div div span.diff .cat54 body div div span.diff .cat54, body div div span.diff .cat55 body div div span.diff .cat55, body div div span.diff .cat56 body div div span.diff .cat56, body div div span.diff .cat57 body div div span.diff .cat57, body div div span.diff .cat58 body div div span.diff .cat58, body div div span.diff .cat59 body div div span.diff .cat59, body div div span.diff .cat61 body div div span.diff .cat61, body div div span.diff .cat62 body div div span.diff .cat62, body div div span.diff .cat63 body div div span.diff .cat63, body div div span.diff .cat64 body div div span.diff .cat64, body div div span.diff .cat65 body div div span.diff .cat65, body div div span.diff .cat66 body div div span.diff .cat66, body div div span.diff .cat67 body div div span.diff .cat67, body div div span.diff .cat68 body div div span.diff .cat68, body div div span.diff .cat69 body div div span.diff .cat69, body div div span.diff .cat71 body div div span.diff .cat71, body div div span.diff .cat72 body div div span.diff .cat72, body div div span.diff .cat73 body div div span.diff .cat73, body div div span.diff .cat74 body div div span.diff .cat74, body div div span.diff .cat75 body div div span.diff .cat75, body div div span.diff .cat76 body div div span.diff .cat76, body div div span.diff .cat77 body div div span.diff .cat77, body div div span.diff .cat78 body div div span.diff .cat78, body div div span.diff .cat79 body div div span.diff .cat79, body div div span.diff .cat81 body div div span.diff .cat81, body div div span.diff .cat82 body div div span.diff .cat82, body div div span.diff .cat83 body div div span.diff .cat83, body div div span.diff .cat84 body div div span.diff .cat84, body div div span.diff .cat85 body div div span.diff .cat85, body div div span.diff .cat86 body div div span.diff .cat86, body div div span.diff .cat87 body div div span.diff .cat87, body div div span.diff .cat88 body div div span.diff .cat88, body div div span.diff .cat89 body div div span.diff .cat89, body div div span.diff .cat91 body div div span.diff .cat91, body div div span.diff .cat92 body div div span.diff .cat92, body div div span.diff .cat93 body div div span.diff .cat93, body div div span.diff .cat94 body div div span.diff .cat94, body div div span.diff .cat95 body div div span.diff .cat95, body div div span.diff .cat96 body div div span.diff .cat96, body div div span.diff .cat97 body div div span.diff .cat97, body div div span.diff .cat98 body div div span.diff .cat98, body div div span.diff .cat99 body div div span.diff .cat99
+{
+	border: 3px solid #000000;
+}
+
+div#teksts span.tmp  {
+	background-color: #DDDDDD !important;
+}
+
+div#colors{
+    overflow:auto;
+    padding:10px 0 10px 0;
+	position:fixed;
+	background:#ffffff;
+	box-shadow: 0 0 15px #000000;
+	top:0;
+	right:0;
+	width:365px;
+}
+
+div#colors div, div#colors span.button{
+	cursor:pointer;
+}
+
+
+div#colors div,div#colors span.button{
+	display:block;
+    float:left;
+    padding:5px;
+    margin:3px 3px 3px 7px;
+    border:1px solid;
+    width:150px;
+    text-align:center;
+}
+
+div#colors div.active
+{
+	border:3px solid #00FF00 !important;
+	margin:1px 1px 1px 5px !important;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+div#colors div:hover,div#colors span.button:hover{
+	border:3px solid #000000 !important;
+	margin:1px 1px 1px 5px !important;
+}
+
+div#izvele
+{
+	height:200px;
+	border:3px groove #C0C0C0;
+	padding:3px;
+	overflow:scroll;
+}
+
+body div span
+{
+	border:0 !important;
+	background:none;
+	padding:0 !important;
+	color: #0C8C09;
+	text-decoration: underline;
+}
+
+body div span.diff, body div span.diff span
+{
+	color: #000000;
+	text-decoration: none;
+}
